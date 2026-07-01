@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B2845,100:5D5FEF&height=250&section=header&text=HARIHARA%20SUTHAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%26%20Data%20Science%20|%20Aspiring%20AI%20Engineer&descAlignY=52&descSize=16&descColor=B8C1EC" width="100%"/>
 
 <a href="https://github.com/harikarasuthan-39">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=5D5FEF&center=true&vCenter=true&width=680&lines=import+intelligence+as+ai;model.train(passion%2C+curiosity);Building+the+College-Chatbot+%F0%9F%A4%96;Deep+Learning+%C2%B7+Machine+Learning+%C2%B7+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=5D5FEF&center=true&vCenter=true&width=680&lines=import+intelligence+as+ai;model.train(passion%2C+curiosity);Deep+Learning+%C2%B7+Machine+Learning+%C2%B7+Python" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -29,13 +29,11 @@ institution: Dhaanish Ahmed Institute of Technology
 location: Tamil Nadu, India
 goal: Become an AI Engineer
 
-currently_building:
-  - College-Chatbot: "AI assistant for college-related queries"
-
 currently_learning:
   - Machine Learning
   - Deep Learning
-  - Advanced Python
+  - Advanced Python & etc..
+  
 
 ask_me_about:
   - Python fundamentals
