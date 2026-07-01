@@ -62,12 +62,12 @@ ask_me_about:
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-0A0E27?style=for-the-badge&logo=python&logoColor=5D5FEF"/>
-<img src="https://img.shields.io/badge/TensorFlow-0A0E27?style=for-the-badge&logo=tensorflow&logoColor=5D5FEF"/>
-<img src="https://img.shields.io/badge/scikit--learn-0A0E27?style=for-the-badge&logo=scikitlearn&logoColor=5D5FEF"/>
+<img src="https://img.shields.io/badge/PowerBI-0A0E27?style=for-the-badge&logo=tensorflow&logoColor=5D5FEF"/>
+<img src="https://img.shields.io/badge/SQL-0A0E27?style=for-the-badge&logo=scikitlearn&logoColor=5D5FEF"/>
 <img src="https://img.shields.io/badge/Pandas-0A0E27?style=for-the-badge&logo=pandas&logoColor=5D5FEF"/>
 <br/>
 <img src="https://img.shields.io/badge/NumPy-0A0E27?style=for-the-badge&logo=numpy&logoColor=5D5FEF"/>
-<img src="https://img.shields.io/badge/JavaScript-0A0E27?style=for-the-badge&logo=javascript&logoColor=5D5FEF"/>
+<img src="https://img.shields.io/badge/Java-0A0E27?style=for-the-badge&logo=javascript&logoColor=5D5FEF"/>
 <img src="https://img.shields.io/badge/HTML5-0A0E27?style=for-the-badge&logo=html5&logoColor=5D5FEF"/>
 <img src="https://img.shields.io/badge/CSS3-0A0E27?style=for-the-badge&logo=css3&logoColor=5D5FEF"/>
 <img src="https://img.shields.io/badge/Git-0A0E27?style=for-the-badge&logo=git&logoColor=5D5FEF"/>
