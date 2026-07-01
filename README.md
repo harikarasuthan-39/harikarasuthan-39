@@ -1,97 +1,169 @@
 <div align="center">
 
-<!-- Animated typing intro -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B2845,100:5D5FEF&height=250&section=header&text=HARIHARA%20SUTHAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%26%20Data%20Science%20|%20Aspiring%20AI%20Engineer&descAlignY=52&descSize=16&descColor=B8C1EC" width="100%"/>
+
 <a href="https://github.com/harikarasuthan-39">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Harihara+Suthan;AI+%26+Data+Science+Student;Aspiring+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=5D5FEF&center=true&vCenter=true&width=680&lines=import+intelligence+as+ai;model.train(passion%2C+curiosity);Building+the+College-Chatbot+%F0%9F%A4%96;Deep+Learning+%C2%B7+Machine+Learning+%C2%B7+Python" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Badges row -->
-<img src="https://img.shields.io/github/followers/harikarasuthan-39?label=Followers&style=flat-square&color=2F81F7" />
-<img src="https://img.shields.io/github/stars/harikarasuthan-39?label=Stars&style=flat-square&color=2F81F7" />
-<img src="https://komarev.com/ghpvc/?username=harikarasuthan-39&label=Profile+Views&style=flat-square&color=2F81F7" />
-
-</div>
-
----
-
-### 👋 About Me
-
-I'm an **Artificial Intelligence & Data Science** student, currently learning Machine Learning, Deep Learning, and Python — aspiring to become an AI Engineer.
-
-- 🎓 Studying at: **Dhaanish Ahmed Institute of Technology**
-- 📍 Based in: **Tamil Nadu, India**
-- 🔭 Currently building: **College-Chatbot** — a chatbot to answer college-related queries
-- 🌱 Currently learning: **Machine Learning & Deep Learning**
-- 🌐 Portfolio: **[harikarasuthan-39.github.io/Portfolio](https://harikarasuthan-39.github.io/Portfolio/)**
-- 💬 Ask me about: **Python, ML fundamentals, and AI projects**
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-2F81F7?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-2F81F7?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-2F81F7?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-2F81F7?style=flat-square&logo=css3&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-2F81F7?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-2F81F7?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-2F81F7?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-2F81F7?style=flat-square&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-2F81F7?style=flat-square&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/STATUS-Learning%20%26%20Building-5D5FEF?style=for-the-badge&labelColor=0A0E27"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-5D5FEF?style=for-the-badge&labelColor=0A0E27"/>
+<img src="https://img.shields.io/badge/LOCATION-Tamil%20Nadu%2C%20India-5D5FEF?style=for-the-badge&labelColor=0A0E27"/>
 
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harikarasuthan-39&show_icons=true&theme=default&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=333333" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikarasuthan-39&layout=compact&hide_border=true&title_color=2F81F7&text_color=333333" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harikarasuthan-39&hide_border=true&background=FFFFFF00&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" />
+<table align="center">
+<tr>
+<td width="600" valign="top">
 
-</div>
+### 🧬 Profile
 
----
+```yaml
+name: Harihara Suthan
+role: AI & Data Science Student
+institution: Dhaanish Ahmed Institute of Technology
+location: Tamil Nadu, India
+goal: Become an AI Engineer
 
-### 📈 Contribution Graph
+currently_building:
+  - College-Chatbot: "AI assistant for college-related queries"
+
+currently_learning:
+  - Machine Learning
+  - Deep Learning
+  - Advanced Python
+
+ask_me_about:
+  - Python fundamentals
+  - ML model building
+  - AI project ideas
+```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harikarasuthan-39&theme=minimal&hide_border=true&color=2F81F7&line=2F81F7&point=333333" />
+🌐 &nbsp;**Portfolio:** [harikarasuthan-39.github.io/Portfolio](https://harikarasuthan-39.github.io/Portfolio/)
 
 </div>
 
----
-
-### 🌐 Connect With Me
+<br/>
 
 <div align="center">
+
+## 🛰️ Tech Stack
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-0A0E27?style=for-the-badge&logo=python&logoColor=5D5FEF"/>
+<img src="https://img.shields.io/badge/TensorFlow-0A0E27?style=for-the-badge&logo=tensorflow&logoColor=5D5FEF"/>
+<img src="https://img.shields.io/badge/scikit--learn-0A0E27?style=for-the-badge&logo=scikitlearn&logoColor=5D5FEF"/>
+<img src="https://img.shields.io/badge/Pandas-0A0E27?style=for-the-badge&logo=pandas&logoColor=5D5FEF"/>
+<br/>
+<img src="https://img.shields.io/badge/NumPy-0A0E27?style=for-the-badge&logo=numpy&logoColor=5D5FEF"/>
+<img src="https://img.shields.io/badge/JavaScript-0A0E27?style=for-the-badge&logo=javascript&logoColor=5D5FEF"/>
+<img src="https://img.shields.io/badge/HTML5-0A0E27?style=for-the-badge&logo=html5&logoColor=5D5FEF"/>
+<img src="https://img.shields.io/badge/CSS3-0A0E27?style=for-the-badge&logo=css3&logoColor=5D5FEF"/>
+<img src="https://img.shields.io/badge/Git-0A0E27?style=for-the-badge&logo=git&logoColor=5D5FEF"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📡 GitHub Analytics
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harikarasuthan-39&show_icons=true&theme=radical&hide_border=true&bg_color=0A0E27&title_color=5D5FEF&icon_color=5D5FEF&text_color=B8C1EC&border_radius=12"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikarasuthan-39&layout=compact&hide_border=true&bg_color=0A0E27&title_color=5D5FEF&text_color=B8C1EC&border_radius=12"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harikarasuthan-39&hide_border=true&background=0A0E27&stroke=5D5FEF&ring=5D5FEF&fire=5D5FEF&currStreakLabel=5D5FEF&border_radius=12"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harikarasuthan-39&theme=react-dark&hide_border=true&bg_color=0A0E27&color=5D5FEF&line=5D5FEF&point=ffffff&area_color=5D5FEF&area=true" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🧭 Roadmap
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<th align="center">Stage</th>
+<th align="center">Focus</th>
+<th align="center">Status</th>
+</tr>
+<tr>
+<td align="center">01</td>
+<td align="center">Python & Data Fundamentals</td>
+<td align="center">✅ Completed</td>
+</tr>
+<tr>
+<td align="center">02</td>
+<td align="center">Machine Learning</td>
+<td align="center">🔄 In Progress</td>
+</tr>
+<tr>
+<td align="center">03</td>
+<td align="center">Deep Learning</td>
+<td align="center">🔄 In Progress</td>
+</tr>
+<tr>
+<td align="center">04</td>
+<td align="center">College-Chatbot Project</td>
+<td align="center">🔨 Building</td>
+</tr>
+<tr>
+<td align="center">05</td>
+<td align="center">AI Engineer Role</td>
+<td align="center">🎯 Target</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## 🔗 Connect
 
 <a href="https://harikarasuthan-39.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/-Portfolio-2F81F7?style=flat-square&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-5D5FEF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/-Email-2F81F7?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-5D5FEF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/-LinkedIn-2F81F7?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-5D5FEF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D5FEF,50:1B2845,100:0A0E27&height=120&section=footer" width="100%"/>
 
 <div align="center">
-
-<i>Thanks for stopping by — feel free to explore my pinned repositories below ⬇️</i>
-
+<sub>Trained on curiosity · Optimized for growth · Deployed with purpose</sub>
 </div>
