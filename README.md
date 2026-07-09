@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B2845,100:5D5FEF&height=250&section=header&text=HARIHARA%20SUTHAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%26%20Data%20Science%20|%20Aspiring%20AI%20Engineer&descAlignY=52&descSize=16&descColor=B8C1EC" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B2845,100:5D5FEF&height=250&section=header&text=HARIHARA%20SUTHAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%26%20Data%20Science%20%E2%80%94%20Aspiring%20AI%20Engineer&descAlignY=52&descSize=16&descColor=B8C1EC" width="100%"/>
 
 <a href="https://github.com/harikarasuthan-39">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=5D5FEF&center=true&vCenter=true&width=680&lines=import+intelligence+as+ai;model.train(passion%2C+curiosity);Building+the+College-Chatbot;Deep+Learning+-+Machine+Learning+-+Python" alt="Typing SVG" />
@@ -87,7 +87,7 @@ ask_me_about:
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harikarasuthan-39&hide_border=true&background=0A0E27&stroke=5D5FEF&ring=5D5FEF&fire=5D5FEF&currStreakLabel=5D5FEF&border_radius=12"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harikarasuthan-39&background=0A0E27&stroke=5D5FEF&ring=5D5FEF&fire=5D5FEF&currStreakLabel=5D5FEF&border_radius=12"/>
 
 </div>
 
