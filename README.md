@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B2845,100:5D5FEF&height=250&section=header&text=HARIHARA%20SUTHAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%26%20Data%20Science%20|%20Aspiring%20AI%20Engineer&descAlignY=52&descSize=16&descColor=B8C1EC" width="100%"/>
 
 <a href="https://github.com/harikarasuthan-39">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=5D5FEF&center=true&vCenter=true&width=680&lines=import+intelligence+as+ai;model.train(passion%2C+curiosity);Deep+Learning+%C2%B7+Machine+Learning+%C2%B7+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=5D5FEF&center=true&vCenter=true&width=680&lines=import+intelligence+as+ai;model.train(passion%2C+curiosity);Building+the+College-Chatbot;Deep+Learning+-+Machine+Learning+-+Python" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -29,11 +29,13 @@ institution: Dhaanish Ahmed Institute of Technology
 location: Tamil Nadu, India
 goal: Become an AI Engineer
 
+currently_building:
+  - College-Chatbot: "AI assistant for college-related queries"
+
 currently_learning:
   - Machine Learning
   - Deep Learning
-  - Advanced Python & etc..
-  
+  - Advanced Python
 
 ask_me_about:
   - Python fundamentals
@@ -62,12 +64,12 @@ ask_me_about:
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-0A0E27?style=for-the-badge&logo=python&logoColor=5D5FEF"/>
-<img src="https://img.shields.io/badge/PowerBI-0A0E27?style=for-the-badge&logo=tensorflow&logoColor=5D5FEF"/>
-<img src="https://img.shields.io/badge/SQL-0A0E27?style=for-the-badge&logo=scikitlearn&logoColor=5D5FEF"/>
+<img src="https://img.shields.io/badge/TensorFlow-0A0E27?style=for-the-badge&logo=tensorflow&logoColor=5D5FEF"/>
+<img src="https://img.shields.io/badge/scikit--learn-0A0E27?style=for-the-badge&logo=scikitlearn&logoColor=5D5FEF"/>
 <img src="https://img.shields.io/badge/Pandas-0A0E27?style=for-the-badge&logo=pandas&logoColor=5D5FEF"/>
 <br/>
 <img src="https://img.shields.io/badge/NumPy-0A0E27?style=for-the-badge&logo=numpy&logoColor=5D5FEF"/>
-<img src="https://img.shields.io/badge/Java-0A0E27?style=for-the-badge&logo=javascript&logoColor=5D5FEF"/>
+<img src="https://img.shields.io/badge/JavaScript-0A0E27?style=for-the-badge&logo=javascript&logoColor=5D5FEF"/>
 <img src="https://img.shields.io/badge/HTML5-0A0E27?style=for-the-badge&logo=html5&logoColor=5D5FEF"/>
 <img src="https://img.shields.io/badge/CSS3-0A0E27?style=for-the-badge&logo=css3&logoColor=5D5FEF"/>
 <img src="https://img.shields.io/badge/Git-0A0E27?style=for-the-badge&logo=git&logoColor=5D5FEF"/>
@@ -115,7 +117,7 @@ ask_me_about:
 </tr>
 <tr>
 <td align="center">01</td>
-<td align="center">Python & Data Fundamentals</td>
+<td align="center">Python &amp; Data Fundamentals</td>
 <td align="center">✅ Completed</td>
 </tr>
 <tr>
