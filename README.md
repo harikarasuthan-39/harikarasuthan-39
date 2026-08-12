@@ -167,31 +167,18 @@ AI Engineering           → Building Practical AI Applications
 
 ---
 
-## 📈 GitHub Activity
-
----
-
 ## 📊 GitHub Activity
 
-<div align="center">
+I use GitHub to:
 
-### 🚀 Building Consistently
+- Build and share AI/ML projects
+- Practice Python and data science
+- Experiment with new AI technologies
+- Document my learning and development journey
 
-I use GitHub to document my learning journey, experiment with AI technologies,
-and build practical projects.
+My repositories reflect my progress from **learning concepts to building practical applications**.
 
-<br>
-
-<img src="https://img.shields.io/github/followers/harikarasuthan-39?style=for-the-badge&logo=github&label=Followers&color=6C63FF"/>
-<img src="https://img.shields.io/github/stars/harikarasuthan-39?style=for-the-badge&logo=github&label=Repository%20Stars&color=6C63FF"/>
-<img src="https://img.shields.io/github/repositories/harikarasuthan-39?style=for-the-badge&logo=github&label=Repositories&color=6C63FF"/>
-
-<br>
-<br>
-
-**My GitHub reflects my journey from learning concepts to building practical AI applications.**
-
-</div>
+---
 
 ---
 
