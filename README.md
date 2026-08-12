@@ -1,6 +1,6 @@
 <div align="center">
 
-# HARIHARA SUTHAN
+# HARIKARA SUTHAN
 
 ### Artificial Intelligence & Data Science Student | Aspiring AI/ML Engineer
 
@@ -28,7 +28,7 @@
 
 ## 👋 About Me
 
-I am **Harihara Suthan**, an Artificial Intelligence & Data Science student passionate about building practical AI solutions.
+I am **Harikara Suthan**, an Artificial Intelligence & Data Science student passionate about building practical AI solutions.
 
 My current focus is on:
 
@@ -244,7 +244,7 @@ I am interested in:
 
 <div align="center">
 
-### HARIHARA SUTHAN
+### HARIKARA SUTHAN
 
 **Artificial Intelligence & Data Science**
 
