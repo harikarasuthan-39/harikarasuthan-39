@@ -5,14 +5,10 @@
 ### Artificial Intelligence & Data Science Student | Aspiring AI/ML Engineer
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Building+Practical+AI+Applications;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLM+Applications;Retrieval-Augmented+Generation;Python+%7C+Data+Science;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Building+Practical+AI+Applications;Python+%7C+Machine+Learning+%7C+Generative+AI;LLM+Applications+%7C+RAG;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve" alt="Typing Animation"/>
 </p>
 
 <br>
-
-<a href="https://github.com/harikarasuthan-39">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <a href="https://www.linkedin.com/in/harikara-suthan-s-0a3a02348/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -32,22 +28,19 @@
 
 ## 👋 About Me
 
-I am **Harihara Suthan**, an Artificial Intelligence & Data Science student passionate about building practical AI-powered applications.
+I am **Harihara Suthan**, an Artificial Intelligence & Data Science student passionate about building practical AI solutions.
 
-My current focus includes:
+My current focus is on:
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- ✨ Generative AI
-- 📚 Large Language Models (LLMs)
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 💬 Natural Language Processing
-- 🐍 Python & Data Science
-- 💻 AI Application Development
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* ✨ Generative AI
+* 📚 Large Language Models
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 🐍 Python & Data Science
+* 💻 AI-powered applications
 
-I enjoy turning real-world problems into working solutions through:
-
-**Problem → Data → Model → Application → Deployment → Improvement**
+I enjoy taking a problem from **idea → implementation → testing → deployment** and continuously improving the solution.
 
 🎯 **Career Goal:** AI Engineer / ML Engineer
 
@@ -55,19 +48,21 @@ I enjoy turning real-world problems into working solutions through:
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming
+### Programming
 
-`Python` `Java` `C` `JavaScript` `HTML` `CSS`
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark"/>
 
-### 🤖 AI & Machine Learning
+### AI / Machine Learning
 
-`Machine Learning` `Deep Learning` `Generative AI`  
-`Large Language Models` `RAG` `NLP`
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
 
-### 📊 Data & Development
+### Data & Development
 
-`Data Science` `Data Analysis` `NumPy` `Pandas`  
-`Streamlit` `Git` `GitHub` `VS Code`
+<img src="https://skillicons.dev/icons?i=numpy,pandas,mysql,git,github,vscode&theme=dark"/>
+
+### Core Areas
+
+`Machine Learning` `Deep Learning` `Generative AI` `LLMs` `RAG` `NLP` `Data Science`
 
 ---
 
@@ -75,80 +70,197 @@ I enjoy turning real-world problems into working solutions through:
 
 ### 🤖 College Chatbot
 
-An AI-powered college assistant designed to provide college-related information through a conversational interface.
+An AI-powered college assistant designed to help users access college-related information through a conversational interface.
 
-**Technical Focus**
+**Focus:** Conversational AI • NLP • LLM Applications • Information Retrieval
 
-`Python` `AI` `NLP` `LLM Applications`
-
-**Repository:**  
-https://github.com/harikarasuthan-39/College-Chatbot
+🔗 [View Repository](https://github.com/harikarasuthan-39/College-Chatbot)
 
 ---
 
 ### 🧠 HPAS Form Agent
 
-An AI-based application focused on intelligent form processing and workflow automation.
+An AI-based project focused on intelligent form-related workflows and automation.
 
-**Technical Focus**
+**Focus:** AI Applications • Automation • Intelligent Processing
 
-`JavaScript` `AI` `Automation`
-
-**Repository:**  
-https://github.com/harikarasuthan-39/hpas-form-agent
+🔗 [View Repository](https://github.com/harikarasuthan-39/hpas-form-agent)
 
 ---
 
 ### 📚 Travel Guide RAG Assistant
 
-A Python-based Retrieval-Augmented Generation assistant for retrieving and answering travel-related queries.
+A Python-based Retrieval-Augmented Generation assistant designed around travel-related information retrieval.
 
-**Technical Focus**
+**Focus:** Python • RAG • Information Retrieval • Generative AI
 
-`Python` `RAG` `Information Retrieval` `Generative AI`
-
-**Repository:**  
-https://github.com/harikarasuthan-39/Console-based-travel-guide-RAG-assistant-in-Python
+🔗 [View Repository](https://github.com/harikarasuthan-39/Console-based-travel-guide-RAG-assistant-in-Python)
 
 ---
 
 ### 🌐 Personal Portfolio
 
-A personal portfolio website showcasing my projects, technical skills and professional profile.
+A personal portfolio showcasing my projects, technical skills, learning journey and professional profile.
 
-**Technical Focus**
+**Focus:** HTML • CSS • JavaScript • Web Development
 
-`HTML` `CSS` `JavaScript`
-
-**Portfolio:**  
-https://harikarasuthan-39.github.io/Portfolio/
+🔗 [View Portfolio](https://harikarasuthan-39.github.io/Portfolio/)
 
 ---
 
-## 🧠 AI Development Approach
-
-I follow a structured approach when building AI applications:
+## 🧩 How I Approach AI Problems
 
 ```text
-                 REAL-WORLD PROBLEM
-                         │
-                         ▼
-                   REQUIREMENTS
-                         │
-                         ▼
-                       DATA
-                         │
-                         ▼
-                 AI / ML APPROACH
-                         │
-                         ▼
-                    DEVELOPMENT
-                         │
-                         ▼
-               TESTING & EVALUATION
-                         │
-                         ▼
-                    DEPLOYMENT
-                         │
-                         ▼
-                    IMPROVEMENT
+        REAL-WORLD PROBLEM
+                │
+                ▼
+        Understand Requirements
+                │
+                ▼
+          Collect / Prepare Data
+                │
+                ▼
+          Select AI Approach
+                │
+                ▼
+        Build & Experiment
+                │
+                ▼
+          Evaluate Results
+                │
+                ▼
+             Deploy
+                │
+                ▼
+       Improve & Iterate
+```
+
+I focus on understanding the **problem first**, selecting the appropriate technical approach, and building solutions that are useful beyond a simple prototype.
+
+---
+
+## 📚 Currently Learning
+
+```text
+Machine Learning        → Model Development & Evaluation
+Deep Learning            → Neural Networks & Training
+Generative AI            → LLM Applications
+RAG                      → Retrieval + Generation
+NLP                      → Text & Conversational Systems
+AI Engineering           → Building Practical AI Applications
+```
+
+---
+
+## 🔬 Technical Interests
+
+| Area                       | Focus                               |
+| -------------------------- | ----------------------------------- |
+| 🤖 Artificial Intelligence | Intelligent application development |
+| 🧠 Machine Learning        | Model building and evaluation       |
+| 🔥 Deep Learning           | Neural networks                     |
+| ✨ Generative AI            | LLM-powered applications            |
+| 📚 RAG                     | Retrieval + grounded generation     |
+| 📊 Data Science            | Data analysis and preprocessing     |
+| 🐍 Python                  | AI and data development             |
+| 💻 Software Development    | Building usable applications        |
+
+---
+
+## 📈 GitHub Activity
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+### 🚀 Building Consistently
+
+I use GitHub to document my learning journey, experiment with AI technologies,
+and build practical projects.
+
+<br>
+
+<img src="https://img.shields.io/github/followers/harikarasuthan-39?style=for-the-badge&logo=github&label=Followers&color=6C63FF"/>
+<img src="https://img.shields.io/github/stars/harikarasuthan-39?style=for-the-badge&logo=github&label=Repository%20Stars&color=6C63FF"/>
+<img src="https://img.shields.io/github/repositories/harikarasuthan-39?style=for-the-badge&logo=github&label=Repositories&color=6C63FF"/>
+
+<br>
+<br>
+
+**My GitHub reflects my journey from learning concepts to building practical AI applications.**
+
+</div>
+
+---
+
+## 🎯 Career Direction
+
+I am currently building my foundation toward a career in:
+
+```text
+Artificial Intelligence
+        │
+        ├── Machine Learning
+        ├── Deep Learning
+        ├── Generative AI
+        ├── LLM Applications
+        ├── RAG Systems
+        └── AI Engineering
+```
+
+My objective is to progress from **learning AI concepts** to **designing, developing and deploying practical AI systems**.
+
+---
+
+## 🌱 Learning Philosophy
+
+> **Learn the concept. Build the solution. Test the idea. Improve the result.**
+
+I believe consistent project building is one of the best ways to turn theoretical knowledge into practical engineering skills.
+
+---
+
+## 🤝 Open to Opportunities
+
+I am interested in:
+
+* AI / ML internships
+* Data Science opportunities
+* Generative AI projects
+* AI/ML collaborations
+* Student developer opportunities
+* Technical project collaborations
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/harikara-suthan-s-0a3a02348/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://harikarasuthan-39.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:hariharasuthan.sha@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### HARIHARA SUTHAN
+
+**Artificial Intelligence & Data Science**
+
+*Learn • Build • Experiment • Deploy*
+
+</div>
