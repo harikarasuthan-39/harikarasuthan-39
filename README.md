@@ -1,6 +1,6 @@
 <div align="center">
 
-# HARIHARA SUTHAN
+# HARIKARA SUTHAN
 
 ### Artificial Intelligence & Data Science Student
 ### Aspiring AI Engineer • Machine Learning • Generative AI
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/harikara-suthan">
+<a href="https://www.linkedin.com/in/harikara-suthan-s-0a3a02348">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
