@@ -56,8 +56,6 @@ My long-term goal is to build reliable, useful and production-oriented AI system
 
 ---
 
-# 🎯 Recruiter Snapshot
-
 <table>
 <tr>
 
